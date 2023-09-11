@@ -1343,6 +1343,7 @@
     "policyHolder.contactName": "Nom du contact",
     "policyHolder.accountancyAccount": "Comptabilité",
     "policyHolder.bankAccount": "Compte bancaire",
+    "policyHolder.bank": "Nom de Banque",
     "policyHolder.paymentReference": "Référence de paiement",
     "policyHolder.name": "Nom",
     "policyHolder.contributionPlanBundle": "Ensemble du plan de contribution",
