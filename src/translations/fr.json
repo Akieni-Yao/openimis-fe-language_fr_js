@@ -2427,7 +2427,9 @@
   "insuree.Country.UZ": "Uzbekistan",
   "insuree.Country.VU": "Vanuatu",
   "insuree.Country.VE": "Venezuela",
-  "insuree.Country.VN": "Vietnam"
+  "insuree.Country.VN": "Vietnam",
+  "Insuree.documentTitle":"Documents",
+  "Insuree.BiometricHeading":"Biometric"
 
 
 }
