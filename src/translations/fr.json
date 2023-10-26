@@ -375,7 +375,7 @@
     "location.locationType.1.directChildren": "Arrondissements",
     "location.locationType.2.directChildren": "Quartiers",
     "location.locations.searcher.title.0": "Départements",
-    "location.locations.searcher.title.1": "Ville",
+    "location.locations.searcher.title.1": "Villes",
     "location.locations.searcher.title.2": "Arrondissements",
     "location.locations.searcher.title.3": "Quartiers",
     "location.locations.searcher.title.3.catchments": "Bassins versants des villages",
@@ -403,7 +403,7 @@
     "location.DeleteDialog.reassign": "Supprimez {code} - {name} {type} et déplacez son {directChildren} vers",
     "location.MoveDialog.title": "Déplacer {code} - {name} {type}",
     "location.MoveDialog.current": "Parent actuel",
-    "location.MoveDialog.new": "Nouveau parent :",
+    "location.MoveDialog.new": "Nouveau département :",
     "location.MoveDialog.Parent.None": "Aucune",
     "location.MoveDialog.move": "Déplacement",
     "location.MoveDialog.cancel": "Annuler",
@@ -2453,5 +2453,8 @@
     "admin.active.title":"Active User",
     "admin.delete.user":"DeleteTaskGroupUser",
     "admin.TaskGroup.snackbar":"Groupe de travail créé avec succès",
-    "insuree.camunumber":"Numéro CAMU"
+    "insuree.camunumber":"Numéro CAMU",
+    "refreshFilterTooltip":"Rechercher à nouveau",
+    "resetFilterTooltip": "Réinitialiser les critères de recherche"
+
 }
