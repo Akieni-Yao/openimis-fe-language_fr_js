@@ -2528,5 +2528,6 @@
     "location.HealthFacilityForm.fosaLevel.Autres": "Autres",
     "insuree.Insuree.verify":"Vérifier",
     "insuree.Insuree.reject":"Rejeté",
-    "policyHolder.policyHolderInsuree.downloadsample": "Télécharger l'exemple de fiche"
+    "policyHolder.policyHolderInsuree.downloadsample": "Télécharger l'exemple de fiche",
+    "policyHolder.nbEmployeesValidation.regexMsg.en": "Please Fill Numeric Value"
 }
