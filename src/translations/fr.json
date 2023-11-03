@@ -2512,5 +2512,8 @@
     "location.HealthFacilityForm.fosaLevel.hôpitalGeneral": "Hôpital General",
     "location.HealthFacilityForm.fosaLevel.Autres": "Autres",
     "insuree.Insuree.verify":"Vérifier",
-    "insuree.Insuree.reject":"Rejeté"
+    "insuree.Insuree.reject":"Rejeté",
+    "core.datePicker.ok":"OK",
+    "core.datePicker.cancel":"Annuler",
+    "core.datePicker.clear":"Effacer"
 }
