@@ -2535,6 +2535,7 @@
     "insuree.Family.enrolmentType.CRF_and_CNSS_pensioners": "Pensionnés",
     "insuree.Family.enrolmentType.vulnerable_Persons": "Personnes vulnérables",
     "insuree.Family.civilQuality.Depedent Beneficiary spouse": "Ayant droit conjoint",
-    "insuree.Family.civilQuality.Depedent Beneficiary child": "Ayant droit enfant"
+    "insuree.Family.civilQuality.Depedent Beneficiary child": "Ayant droit enfant",
+    "insuree.success":"Email sent successfully"
 
 }
