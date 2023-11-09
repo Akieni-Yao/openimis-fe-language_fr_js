@@ -2533,5 +2533,8 @@
     "insuree.Family.enrolmentType.private_sector_employees": "Salariés du privé",
     "insuree.Family.enrolmentType.Selfemployed_and_liberal_professions": "Travailleurs indépendants et professions libérales",
     "insuree.Family.enrolmentType.CRF_and_CNSS_pensioners": "Pensionnés",
-    "insuree.Family.enrolmentType.vulnerable_Persons": "Personnes vulnérables"
+    "insuree.Family.enrolmentType.vulnerable_Persons": "Personnes vulnérables",
+    "insuree.Family.civilQuality.Depedent Beneficiary spouse": "Ayant droit conjoint",
+    "insuree.Family.civilQuality.Depedent Beneficiary child": "Ayant droit enfant"
+
 }
