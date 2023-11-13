@@ -2536,6 +2536,11 @@
     "insuree.Family.enrolmentType.vulnerable_Persons": "Personnes vulnérables",
     "insuree.Family.civilQuality.Depedent Beneficiary spouse": "Ayant droit conjoint",
     "insuree.Family.civilQuality.Depedent Beneficiary child": "Ayant droit enfant",
-    "insuree.success":"Email sent successfully"
-
+    "insuree.success":"Email sent successfully",
+    "insuree.menu.pendingApproval": "En attente d'approbation",
+    "insuree.Insuree.pendingApproval":"En attente d'approbation",
+    "insuree.PedingApproval.tempCamuNo":"Numéro CAMU temporaire",
+    "insuree.PedingApproval.firstName":"Prénom",
+    "insuree.PedingApproval.lastName":"Nom de famille",
+    "insuree.PedingApproval.gender":"Genre"
 }
