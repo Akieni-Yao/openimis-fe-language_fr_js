@@ -2554,7 +2554,7 @@
     "insuree.PedingApproval.firstName":"Prénom",
     "insuree.PedingApproval.lastName":"Nom de famille",
     "insuree.PedingApproval.gender":"Genre",
-    "insuree.Family.policyHolder": "Immatriculation",
+    "insuree.Family.policyHolder": "Souscripteur",
     "insuree.policyHolder.edit":"Modifier",
     "insuree.policyHolder.delete":"Supprimer"
 }
