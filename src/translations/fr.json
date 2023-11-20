@@ -676,6 +676,7 @@
     "insuree.Family.payments": "Paiements",
     "insuree.Family.title": "Famille \/ Groupe {label}",
     "insuree.Insuree.title": "Assuré ayant droit {label}",
+    "insuree.family.title": "Assuré Ouvrant droit {label}",
     "insuree.InsureeMasterPanel.title": "Détails de l'assuré",
     "insuree.HeadInsureeMasterPanel.title": "Detail Assuré Principal.",
     "insuree.InsureeFirstServicePointPanel.title": "Premier point de service",
