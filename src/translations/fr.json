@@ -676,7 +676,6 @@
     "insuree.Family.payments": "Paiements",
     "insuree.Family.title": "Famille \/ Groupe {label}",
     "insuree.Insuree.title": "Assuré ayant droit {label}",
-    "insuree.family.title": "Assuré Ouvrant droit {label}",
     "insuree.InsureeMasterPanel.title": "Détails de l'assuré",
     "insuree.family.title": "Assuré Ouvrant droit {label}",
     "insuree.HeadInsureeMasterPanel.title": "Detail Assuré Principal.",
@@ -2557,5 +2556,6 @@
     "insuree.PedingApproval.gender":"Genre",
     "insuree.Family.policyHolder": "Souscripteur",
     "insuree.policyHolder.edit":"Modifier",
-    "insuree.policyHolder.delete":"Supprimer"
+    "insuree.policyHolder.delete":"Supprimer",
+    "insuree.insureeSummaries.status": "Statut"
 }
