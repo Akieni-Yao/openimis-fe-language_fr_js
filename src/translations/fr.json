@@ -2558,5 +2558,8 @@
     "insuree.policyHolder.edit":"Modifier",
     "insuree.policyHolder.delete":"Supprimer",
     "insuree.insureeSummaries.status": "Statut",
-    "Insuree.employee_number":"Matricule"
+    "Insuree.employee_number":"Matricule",
+    "tools.RegistersPage.insurees.downloadLabel": "Téléchargement de la listes des assurés",
+    "tools.RegistersPage.insureesBlockTitle": "Téléchargement de la liste des assurés",
+    "tools.RegistersPage.insurees.uploadLabel": "Téléverser les assurés"
 }
