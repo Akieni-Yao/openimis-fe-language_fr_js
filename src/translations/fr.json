@@ -2557,5 +2557,6 @@
     "insuree.PedingApproval.gender":"Genre",
     "insuree.Family.policyHolder": "Souscripteur",
     "insuree.policyHolder.edit":"Modifier",
-    "insuree.policyHolder.delete":"Supprimer"
+    "insuree.policyHolder.delete":"Supprimer",
+    "Insuree.employee_number":"Matricule"
 }
