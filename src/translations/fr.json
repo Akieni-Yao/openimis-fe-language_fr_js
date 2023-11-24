@@ -307,6 +307,7 @@
     "medical.careType.I": "Hospitalisé",
     "medical.careType.O": "Ambulatoire",
     "medical.careType.B": "Ambulatoire et hospitalisé",
+    "medical.medicalService.createMedicalService.mutationLabel":"Créer un service médical",
     "policy.menu.policies": "Polices",
     "policy.menu.contributions": "Contributions",
     "policy.insureePolicies.header": "Polices familiales",
