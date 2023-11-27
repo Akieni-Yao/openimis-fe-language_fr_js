@@ -547,6 +547,7 @@
     "contribution.premium.category.contribution": "Contribution",
     "insuree.buttonStatus.preRegistered": "Pré-enregistrement",
     "insuree.buttonStatus.approved": "Approuvé",
+    "insuree.buttonStatus.active": "Active",
     "insuree.buttonStatus.rejected": "Rejected",
     "insuree.buttonStatus.rework": "Rework",
     "insuree.buttonStatus.waitingDocumentBiometric": "En attente de documents et Biomatries",
@@ -2563,5 +2564,17 @@
     "Insuree.employee_number":"Matricule",
     "tools.RegistersPage.insurees.downloadLabel": "Téléchargement de la listes des assurés",
     "tools.RegistersPage.insureesBlockTitle": "Téléchargement de la liste des assurés",
-    "tools.RegistersPage.insurees.uploadLabel": "Téléverser les assurés"
+    "tools.RegistersPage.insurees.uploadLabel": "Téléverser les assurés",
+    "insuree.CreateInsuree.snackbar":"Assuré créé avec un numéro CAMU temporaire",
+    "insuree.UpdateInsuree.snackbar":"Assuré mis à jour avec un numéro CAMU temporaire",
+    "insuree.CreateFamily.snackbar":"",
+    "insuree.UpdateFamily.snackbar":"",
+    "core.common.errorBoundary":"Une erreur a été détectée. La référence au journal de la console n'est pas correcte",
+    "insuree.dialog.reworkTitle":"Remaniement",
+ "insuree.dialog.rejectTitle":"Raison du rejet",
+ "insuree.label.Reviewer":"Réviseur",
+ "insuree.dialog.cancel":"Annuler",
+ "insuree.button.sendRework":"Send for rework",
+ "insuree.button.reject":"Reject"
+
 }
