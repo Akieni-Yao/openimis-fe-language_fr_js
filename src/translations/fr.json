@@ -1076,7 +1076,7 @@
     "medical_pricelist.table.overrule": "Forme",
     "medical_pricelist.table.price": "Prix",
     "medical_pricelist.table.selectAll": "Sélectionner tout",
-    "medical_pricelist.table.unelectAll": "Désélectionner tout",
+    "medical_pricelist.table.unselectAll": "Désélectionner tout",
     "medical_pricelist.table.name": "Nom",
     "medical_pricelist.table.type": "Type",
     "medical_pricelist.table.type.c": "Curatif",
