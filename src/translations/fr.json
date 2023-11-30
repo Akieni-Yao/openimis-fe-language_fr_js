@@ -2584,8 +2584,12 @@
  "insuree.Insuree.status.PRE_REGISTERED": "Pré-enregistrement",
  "insuree.Insuree.status.APPROVED": "Approuvé",
  "insuree.Insuree.status.REJECTED": "Rejeté",
- "insuree.Insuree.status.rework": "Remaniement",
+ "insuree.Insuree.status.ACTIVE": "Active",
+ "insuree.Insuree.status.REWORK": "Remaniement",
  "insuree.Insuree.status.WAITING_FOR_DOCUMENT_AND_BIOMETRIC": "En attente de documents et Biomatries",
  "insuree.Insuree.status.WAITING_FOR_APPROVAL": "En attente d'approbation",
- "insuree.Insuree.status.WAITING_FOR_QUEUE": "En attente de la file d'attente"
+ "insuree.Insuree.status.WAITING_FOR_QUEUE": "En attente de la file d'attente",
+ "approveTooltip":"Approuvé",
+ "rejectTooltip":"Rejeté",
+ "reworkTooltip":"Remaniement"
 }
