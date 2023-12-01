@@ -2594,5 +2594,7 @@
  "rejectTooltip":"Rejeté",
  "reworkTooltip":"Remaniement",
  "policyHolder.policyHolderInsuree.downloadInsuree": "Download Insuree",
- "location.Location.center":"Center"
+ "location.Location.center":"Center",
+ "location.task.title":"Update a center",
+ "location.task.newTitle":"Create a center"
 }
