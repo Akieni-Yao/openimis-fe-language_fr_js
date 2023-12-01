@@ -480,6 +480,7 @@
   "claim.ClaimAttachment.create.mutationLabel": "Ajout de la pièce jointe {file} à la prestation {code}",
   "empty": " ",
   "FatalError.title": "Erreur fatale",
+  "FatalError.Bad Request": "Mauvaise demande",
   "FatalError.message": "L'action demandée ne peut pas être exécutée, veuillez vérifier votre connexion internet, ...",
   "validation.minValue": "{value} sous les {min} autorisés",
   "validation.maxValue": "{value} au-dessus de la valeur autorisée {max}",
