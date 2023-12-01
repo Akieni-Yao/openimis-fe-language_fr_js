@@ -2592,5 +2592,7 @@
  "insuree.Insuree.status.WAITING_FOR_QUEUE": "En attente de la file d'attente",
  "approveTooltip":"Approuvé",
  "rejectTooltip":"Rejeté",
- "reworkTooltip":"Remaniement"
+ "reworkTooltip":"Remaniement",
+ "policyHolder.policyHolderInsuree.downloadInsuree": "Download Insuree",
+ "location.Location.center":"Center"
 }
