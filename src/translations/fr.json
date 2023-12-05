@@ -2596,5 +2596,8 @@
  "policyHolder.policyHolderInsuree.downloadInsuree": "Download Insuree",
  "location.Location.center":"Center",
  "location.task.title":"Update a center",
- "location.task.newTitle":"Create a center"
+ "location.task.newTitle":"Create a center",
+ "insuree.Insuree.snackbarMsg":"Assuré {statusInsuree} avec {camuStatus}",
+ "insuree.CAMUNo":"un numéro CAMU",
+ "insuree.TempCAMUNo":"numéro CAMU temporaire"
 }
