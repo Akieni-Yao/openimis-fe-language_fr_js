@@ -2579,7 +2579,7 @@
   "insuree.dialog.rejectTitle": "Raison du rejet",
   "insuree.label.Reviewer": "Réviseur",
   "insuree.dialog.cancel": "Annuler",
-  "insuree.button.sendRework": "Send for rework",
+  "insuree.button.sendRework": "Envoyer pour reprise",
   "insuree.button.reject": "Rejeté",
   "insuree.Insuree.status.null": " ",
  "insuree.Insuree.status.PRE_REGISTERED": "Pré-enregistrement",
@@ -2596,5 +2596,13 @@
  "policyHolder.policyHolderInsuree.downloadInsuree": "Download Insuree",
  "location.Location.center":"Center",
  "location.task.title":"Update a center",
- "location.task.newTitle":"Create a center"
+ "location.task.newTitle":"Create a center",
+ "insuree.buttonStatus.waitingBiometricRework":"En attente de Biomatries-Remaniement",
+ "insuree.buttonStatus.waitingDocumentRework":"En attente de documents-Remaniement",
+ "insuree.buttonStatus.waitingDocument":"En attente de documents",
+ "insuree.buttonStatus.waitingBiometric":"En attente de Biomatries",
+ "insuree.Insuree.status.WAITING_FOR_DOCUMENT": "En attente de documents",
+ "insuree.Insuree.status.WAITING_FOR_BIOMETRIC": "En attente de Biomatries",
+ "insuree.Insuree.status.WAITING_FOR_DOCUMENT_REWORK": "En attente de documents-Remaniement",
+ "insuree.Insuree.status.WAITING_FOR_BIOMETRIC_REWORK": "En attente de Biomatries-Remaniement"
 }
