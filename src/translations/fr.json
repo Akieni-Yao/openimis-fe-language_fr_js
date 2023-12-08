@@ -2594,7 +2594,7 @@
  "rejectTooltip":"Rejeté",
  "reworkTooltip":"Remaniement",
  "policyHolder.policyHolderInsuree.downloadInsuree": "Download Insuree",
- "location.Location.center":"Center",
+ "location.Location.center":"Centres",
  "location.task.title":"Update a center",
  "location.task.newTitle":"Create a center",
  "insuree.Insuree.snackbarMsg":"Assuré {statusInsuree} avec {camuStatus}",
@@ -2606,6 +2606,7 @@
  "insuree.buttonStatus.waitingBiometric":"En attente de Biomatries",
  "insuree.Insuree.status.WAITING_FOR_DOCUMENT": "En attente de documents",
  "insuree.Insuree.status.WAITING_FOR_BIOMETRIC": "En attente de Biomatries",
- "insuree.Insuree.status.WAITING_FOR_DOCUMENT_REWORK": "En attente de documents-Remaniement",
- "insuree.Insuree.status.WAITING_FOR_BIOMETRIC_REWORK": "En attente de Biomatries-Remaniement"
+ "insuree.Insuree.rejectComments.null": " ",
+ "insuree.Insuree.rejectComments.1":"Le document est rejeté parce qu'il n'est pas de bonne qualité.",
+ "insuree.Insuree.rejectComments.2":"Le document est rejeté"
 }
