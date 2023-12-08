@@ -2613,5 +2613,6 @@
  "insuree.Insuree.status.WAITING_FOR_BIOMETRIC": "En attente de Biomatries",
  "insuree.Insuree.rejectComments.null": " ",
  "insuree.Insuree.rejectComments.1":"Le document est rejeté parce qu'il n'est pas de bonne qualité.",
- "insuree.Insuree.rejectComments.2":"Le document est rejeté"
+ "insuree.Insuree.rejectComments.2":"Le document est rejeté",
+ "admin.menu.center": "Centers"
 }
