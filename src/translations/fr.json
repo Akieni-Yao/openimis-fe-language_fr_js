@@ -2620,5 +2620,6 @@
   "location.deleteTaskDialog.message": "Do you want to delete Center {label}?",
   "location.deleteTaskGroup.mutationLabel": "Delete Center",
   "location.center.deleteButton": "Delete",
-  "location.location.LocationPicker": "Location"
+  "location.location.LocationPicker": "Location",
+  "insuree.pleaseSelectReason":"Please Select the reason"
 }
