@@ -2621,5 +2621,7 @@
   "location.deleteTaskGroup.mutationLabel": "Supprimer un centre",
   "location.center.deleteButton": "Delete",
   "location.location.LocationPicker": "Localisation",
-  "insuree.pleaseSelectReason":"Veuillez sélectionner la raison"
+  "insuree.pleaseSelectReason":"Veuillez sélectionner la raison",
+  "insuree.InsureeRejectReason":"Veuillez sélectionner la raison",
+ "insuree.Insuree.rejectComments":"Veuillez sélectionner la raison"
 }
