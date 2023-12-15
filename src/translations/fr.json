@@ -1353,6 +1353,7 @@
   "policyHolder.displayName": "Nom d'affichage",
   "policyHolder.location": "Localisation",
   "policyHolder.legalForm": "Forme juridique",
+  "policyHolder.employerName":"Numéro de l'employeurNuméro de l'employeur",
   "policyHolder.activityCode": "Secteur d’activités ",
   "policyHolder.dateValidFrom": "RCCM Créé le:",
   "policyHolder.dateValidTo": "Date de validité jusqu'au",
