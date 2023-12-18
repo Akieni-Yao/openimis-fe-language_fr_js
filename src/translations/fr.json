@@ -593,6 +593,7 @@
   "insuree.Family.povertyStatus.false": "Non",
   "insuree.familySummaries": "{count} Familles/Groupes trouvés",
   "insuree.familySummaries.openNewTabButton.tooltip": "Ouvrir dans un nouvel onglet",
+  "insuree.familySummaries.camuNumber": "Numéro CAMU",
   "insuree.familySummaries.insuranceNo": "N° d'ins. du Resp.",
   "insuree.familySummaries.lastName": "Nom de famille Resp.",
   "insuree.familySummaries.otherNames": "Prénom Resp.",
