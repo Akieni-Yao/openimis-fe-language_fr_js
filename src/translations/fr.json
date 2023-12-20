@@ -2627,5 +2627,6 @@
   "location.location.LocationPicker": "Localisation",
   "insuree.pleaseSelectReason":"Veuillez sélectionner la raison",
   "insuree.InsureeRejectReason":"Veuillez sélectionner la raison",
- "insuree.Insuree.rejectComments":"Veuillez sélectionner la raison"
+ "insuree.Insuree.rejectComments":"Veuillez sélectionner la raison",
+ "insuree.notvalid": "No email available for Insuree"
 }
