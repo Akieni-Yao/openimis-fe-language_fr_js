@@ -2628,5 +2628,16 @@
     "insuree.pleaseSelectReason": "Veuillez sélectionner la raison",
     "insuree.InsureeRejectReason": "Veuillez sélectionner la raison",
     "insuree.Insuree.rejectComments": "Veuillez sélectionner la raison",
-    "insuree.notvalid": "No email available for Insuree."
+    "insuree.notvalid": "Aucun email n'est disponible pour l'assuré",
+    "insuree.menu.pendingApprovalAssign": "User Assignment",
+    "insuree.UnAssignUser.mutationLabel":"Désassigner l'utilisateur",
+    "insuree.AssignUser.mutationLabel":"Utilisateur assigné",
+    "insuree.UnAssignUser.message":"Voulez-vous désassigner Temp CAMU No. from {label}?",
+    "insuree.AssignUser.message":"Voulez-vous assigner {label}?",
+    "insuree.user.Assign":"Assigné",
+    "insuree.user.unAssign":"Désassigner",
+    "insuree.reassign.tooltip": "Re-assign User",
+    "insuree.assign.tooltip": "Utilisateur assigné",
+    "insuree.Unassign.tooltip": "Désassigner l'utilisateur",
+    "insuree.Assign.User": "Utilisateur assigné"
 }
