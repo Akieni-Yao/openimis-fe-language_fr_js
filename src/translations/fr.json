@@ -2627,5 +2627,13 @@
   "location.location.LocationPicker": "Localisation",
   "insuree.pleaseSelectReason":"Veuillez sélectionner la raison",
   "insuree.InsureeRejectReason":"Veuillez sélectionner la raison",
- "insuree.Insuree.rejectComments":"Veuillez sélectionner la raison"
+ "insuree.Insuree.rejectComments":"Veuillez sélectionner la raison",
+ "policyHolder.menu.declaration": "Declaration Report",
+ "policyHolder.declarationFilter.declared": "Declared",
+ "policyHolder.declarationFilter.notDeclared": "Not-Declared",
+ "policyHolder.declarationFilter.fromMonth": "From Month",
+ "policyHolder.declarationFilter.toMonth": "To Month",
+ "policyHolder.declarationFilter.camuCode": "CAMU Code",
+ "policyHolder.declarationFilter.search": "Search",
+ "policyHolder.declarationFilter.clear": "Annuler"
 }
