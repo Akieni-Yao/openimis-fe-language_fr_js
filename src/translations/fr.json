@@ -2647,5 +2647,6 @@
  "policyHolder.declarationFilter.toMonth": "To Month",
  "policyHolder.declarationFilter.camuCode": "CAMU Code",
  "policyHolder.declarationFilter.search": "Search",
- "policyHolder.declarationFilter.clear": "Annuler"
+ "policyHolder.declarationFilter.clear": "Annuler",
+ "policyHolder.declarationDownload.tooltip":"Download Declaration Report"
 }
