@@ -2629,7 +2629,7 @@
     "insuree.InsureeRejectReason": "Veuillez sélectionner la raison",
     "insuree.Insuree.rejectComments": "Veuillez sélectionner la raison",
     "insuree.notvalid": "Aucun email n'est disponible pour l'assuré",
-    "insuree.menu.pendingApprovalAssign": "User Assignment",
+    "insuree.menu.pendingApprovalAssign": "Affectation d'un utilisateur",
     "insuree.UnAssignUser.mutationLabel": "Désassigner l'utilisateur",
     "insuree.AssignUser.mutationLabel": "Utilisateur assigné",
     "insuree.UnAssignUser.message": "Voulez-vous désassigner Temp CAMU No. from {label}?",
@@ -2638,6 +2638,7 @@
     "insuree.user.unAssign": "Désassigner",
     "insuree.reassign.tooltip": "Re-assign User",
     "insuree.assign.tooltip": "Utilisateur assigné",
+    "insuree.assign": "Assigné",
     "insuree.Unassign.tooltip": "Désassigner l'utilisateur",
     "insuree.Assign.User": "Utilisateur assigné",
     "policyHolder.menu.declaration": "Declaration Report",
@@ -2664,5 +2665,10 @@
     "contract.grossSalary": "Gross Salary",
     "contract.EmployersContribution": "Cotisation de l'employeur",
     "contract.SalaryShare": "Part de salariale",
-    "contract.total": "Total"
+    "contract.total": "Total",
+    "insuree.Insuree.waitingintheque": "En attente dans la file d'attente",
+    "insuree.reassign":"Réassigner",
+    "insuree.insureePendingApproval": "{count} En attente d'approbation",
+    "insuree.UnAssignsucess":"Utilisateur désattribué avec succès du profil de l'assuré !",
+    "insuree.AssignSucess":"Attribuez avec succès l'utilisateur au profil de l'assuré !"
 }
