@@ -2670,5 +2670,6 @@
     "insuree.reassign":"Réassigner",
     "insuree.insureePendingApproval": "{count} En attente d'approbation",
     "insuree.UnAssignsucess":"Utilisateur désattribué avec succès du profil de l'assuré !",
-    "insuree.AssignSucess":"Attribuez avec succès l'utilisateur au profil de l'assuré !"
+    "insuree.AssignSucess":"Attribuez avec succès l'utilisateur au profil de l'assuré !",
+    "contract.download": "Télécharger"
 }
