@@ -2707,5 +2707,6 @@
     "payment.payment.rejectComment.not_clear_docs":"Documents are not clear",
     "payment.payment.rejectComment.not_valid":"Bank Receipt is not valid",
     "contract.dateError.message1": "Veuillez d'abord créer un contrat pour le mois précédent",
+    "contract.CreateContract.snackbar": "Contract Code",
     "policyHolder.legalStatus": "Legal Status"
 }
