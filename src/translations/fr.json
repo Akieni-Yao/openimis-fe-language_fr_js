@@ -2540,10 +2540,10 @@
     "location.HealthFacilityForm.contactPhone": "Téléphone du contact",
     "location.HealthFacilityForm.type.private": "Secteur Privé",
     "location.HealthFacilityForm.type.public": "Secteur Pubic",
-    "location.HealthFacilityForm.fosaLevel.CSI": "CSI",
-    "location.HealthFacilityForm.fosaLevel.HôpitalDeBase": "Hôpital de base",
-    "location.HealthFacilityForm.fosaLevel.hôpitalGeneral": "Hôpital General",
-    "location.HealthFacilityForm.fosaLevel.Autres": "Autres",
+    "location.HealthFacilityForm.fosaLevel.CSI": "Niveau 1 : CSI/Cabinet Médical",
+    "location.HealthFacilityForm.fosaLevel.HôpitalDeBase": "Niveau 2 :HB Hôpital de Référence de district /Clinique de niveau 1",
+    "location.HealthFacilityForm.fosaLevel.hôpitalGeneral": "Niveau 3 : Hôpital General  / CHU / Clinique de Niveau 2",
+    "location.HealthFacilityForm.fosaLevel.Autres": "Autre ",
     "insuree.Insuree.verify": "Vérifier",
     "insuree.Insuree.reject": "Rejeté",
     "policyHolder.policyHolderInsuree.downloadsample": "Télécharger l'exemple de fiche",
@@ -2706,6 +2706,6 @@
     "payment.payment.rejectComment.null":" ",
     "payment.payment.rejectComment.not_clear_docs":"Documents are not clear",
     "payment.payment.rejectComment.not_valid":"Bank Receipt is not valid",
-    "contract.dateError.message1": "Veuillez d'abord créer un contrat pour le mois précédent"
-    
+    "contract.dateError.message1": "Veuillez d'abord créer un contrat pour le mois précédent",
+    "policyHolder.legalStatus": "Legal Status"
 }
