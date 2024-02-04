@@ -2715,5 +2715,15 @@
     "medical.serviceCategoryType.T": "Test (examen)",
     "medical.medical.download": "Télécharger",
     "policyHolder.legalStatus": "Legal Status",
-    "medical.medical.error": "Code limit is 6 Characters"
+    "medical.medical.error": "Code limit is 6 Characters",
+    "location.HealthFacilityForm.camuCodeTaken": "Code CAMU déjà pris.",
+    "insuree.dialog.printCareSheet":"Imprimer la feuille de soins",
+    "insuree.dialog.CareSheet":"FICHE DE SOINS",
+    "insuree.dialog.lastVerification":"Last Verification Status: ",
+    "insuree.dialog.verified":"Verified",
+    "insuree.dialog.notVerified":"Not-Verified",
+    "insuree.dialog.rightsEnabled":"Droits activés",
+    "insuree.dialog.rightsDisabled":"Droits désactivés",
+    "insuree.dialog.verifyFingerprint":"Vérifier l'empreinte digitale",
+    "insuree.menu.verifyInsurees": "Verification"
 }
