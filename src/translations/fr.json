@@ -2715,7 +2715,7 @@
     "medical.serviceCategoryType.T": "Test (examen)",
     "medical.medical.download": "Télécharger",
     "policyHolder.legalStatus": "Forme juridique",
-    "medical.medical.error": "Code limit is 6 Characters",
+    "medical.medical.error": "La limite du code est de 6 caractères",
     "location.HealthFacilityForm.camuCodeTaken": "Code CAMU déjà pris.",
     "insuree.dialog.printCareSheet":"Imprimer la feuille de soins",
     "insuree.dialog.CareSheet":"FICHE DE SOINS",
