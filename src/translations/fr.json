@@ -2719,9 +2719,9 @@
     "location.HealthFacilityForm.camuCodeTaken": "Code CAMU déjà pris.",
     "insuree.dialog.printCareSheet":"Imprimer la feuille de soins",
     "insuree.dialog.CareSheet":"FICHE DE SOINS",
-    "insuree.dialog.lastVerification":"Last Verification Status: ",
-    "insuree.dialog.verified":"Verified",
-    "insuree.dialog.notVerified":"Not-Verified",
+    "insuree.dialog.lastVerification":"Statut de la dernière vérification: ",
+    "insuree.dialog.verified":"Vérifié",
+    "insuree.dialog.notVerified":"Non-vérifié",
     "insuree.dialog.rightsEnabled":"Droits activés",
     "insuree.dialog.rightsDisabled":"Droits désactivés",
     "insuree.dialog.verifyFingerprint":"Vérifier l'empreinte digitale",
@@ -2734,10 +2734,10 @@
   "location.medicalStaffDesignation.consultant": "Consultant",
   "location.designation":"Fonction",
   "location.medicalStaff.firstName": "Prénom",
-  "location.dialog.edit.title":"Assign Designation",
+  "location.dialog.edit.title":"Attribuer une désignation",
   "location.HealthFacilityForm.camuCode": "Code CAMU",
   "location.HealthFacilityForm.conventionnement": "Code de conventionnement",
   "location.medicalStaff.searcher.title":"Code de paiement trouvés {policyHolderInsureesTotalCount}",
   "location.medicalStaff.label":"Code de paiement",
-  "location.HealthFacilityForm.legalStatus": "Legal status"
+  "location.HealthFacilityForm.legalStatus": "Statut légal"
 }
