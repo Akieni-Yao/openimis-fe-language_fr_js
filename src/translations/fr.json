@@ -2714,7 +2714,7 @@
     "medical.serviceCategoryType.A": "Acte",
     "medical.serviceCategoryType.T": "Test (examen)",
     "medical.medical.download": "Télécharger",
-    "policyHolder.legalStatus": "Legal Status",
+    "policyHolder.legalStatus": "Forme juridique",
     "medical.medical.error": "Code limit is 6 Characters",
     "location.HealthFacilityForm.camuCodeTaken": "Code CAMU déjà pris.",
     "insuree.dialog.printCareSheet":"Imprimer la feuille de soins",
@@ -2739,5 +2739,5 @@
   "location.HealthFacilityForm.conventionnement": "Code de conventionnement",
   "location.medicalStaff.searcher.title":"Code de paiement trouvés {policyHolderInsureesTotalCount}",
   "location.medicalStaff.label":"Code de paiement",
-  "location.HealthFacilityForm.legalStatus": "Statut légal"
+  "location.HealthFacilityForm.legalStatus": "Forme juridique"
 }
