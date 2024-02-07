@@ -2740,5 +2740,8 @@
   "location.medicalStaff.searcher.title":"Code de paiement trouvés {policyHolderInsureesTotalCount}",
   "location.medicalStaff.label":"Code de paiement",
   "location.HealthFacilityForm.legalStatus": "Forme juridique",
-  "policyHolder.print": "Imprimer"
+  "policyHolder.print": "Imprimer",
+  "claim.CamuDoctorPicker.label": "Doctors Camu Number",
+  "claim.CamuDoctorPicker.null": "Any",
+  "claim.CamuDoctorPicker.placeholder": "Search a Claim CamuDoctor"
 }
