@@ -2739,5 +2739,6 @@
   "location.HealthFacilityForm.conventionnement": "Code de conventionnement",
   "location.medicalStaff.searcher.title":"Code de paiement trouvés {policyHolderInsureesTotalCount}",
   "location.medicalStaff.label":"Code de paiement",
-  "location.HealthFacilityForm.legalStatus": "Forme juridique"
+  "location.HealthFacilityForm.legalStatus": "Forme juridique",
+  "policyHolder.print": "Imprimer"
 }
