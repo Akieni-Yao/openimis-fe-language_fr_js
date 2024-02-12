@@ -2702,7 +2702,7 @@
     "payment.Payment.viewDocuments": "Afficher le reçu",
     "payment.Payment.documentHeading": "Preuve de paiement",
     "payment.payment.policyholderName": "Nom du souscripteur",
-    "payment.payment.rejectComment": "Reject comments",
+    "payment.payment.rejectComment": "Rejeter les commentaires",
     "payment.payment.rejectComment.null": " ",
     "payment.payment.rejectComment.not_clear_docs": "Documents are not clear",
     "payment.payment.rejectComment.not_valid": "Bank Receipt is not valid",
@@ -2743,5 +2743,6 @@
   "policyHolder.print": "Imprimer",
   "claim.CamuDoctorPicker.label": "Doctors Camu Number",
   "claim.CamuDoctorPicker.null": "Any",
-  "claim.CamuDoctorPicker.placeholder": "Search a Claim CamuDoctor"
+  "claim.CamuDoctorPicker.placeholder": "Search a Claim CamuDoctor",
+  "location.medicalStaffDesignation.createConsultant": "Add new Consultant"
 }
