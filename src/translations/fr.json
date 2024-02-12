@@ -2744,5 +2744,9 @@
   "policyHolder.print": "Imprimer",
   "claim.CamuDoctorPicker.label": "Doctors Camu Number",
   "claim.CamuDoctorPicker.null": "Any",
-  "claim.CamuDoctorPicker.placeholder": "Search a Claim CamuDoctor"
+  "claim.CamuDoctorPicker.placeholder": "Search a Claim CamuDoctor",
+  "location.medicalStaffDesignation.createConsultant": "Ajouter un nouveau consultant",
+  "location.medicalStaff.lastName": "Nom de famille",
+  "location.title.delete":"Delete Medical Staff User"
+  
 }
