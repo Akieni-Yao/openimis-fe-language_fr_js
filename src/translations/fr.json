@@ -2738,6 +2738,7 @@
   "location.HealthFacilityForm.camuCode": "Code CAMU",
   "location.HealthFacilityForm.conventionnement": "Code de conventionnement",
   "location.medicalStaff.searcher.title":"Code de paiement trouvés {policyHolderInsureesTotalCount}",
+  "location.medicalConsultant.searcher.title":"Medical Consultant {ConsultantHfInsureeTotalCount}",
   "location.medicalStaff.label":"Code de paiement",
   "location.HealthFacilityForm.legalStatus": "Forme juridique",
   "policyHolder.print": "Imprimer",
