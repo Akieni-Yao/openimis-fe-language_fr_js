@@ -2747,6 +2747,23 @@
   "claim.CamuDoctorPicker.placeholder": "Search a Claim CamuDoctor",
   "location.medicalStaffDesignation.createConsultant": "Ajouter un nouveau consultant",
   "location.medicalStaff.lastName": "Nom de famille",
-  "location.title.delete":"Delete Medical Staff User"
+  "location.title.delete":"Delete Medical Staff User",
+  "insuree.heading.verificationHistory":"Historique de vérification",
+  "insuree.verificationHistory.status.true": "Succès",
+  "insuree.verificationHistory.status.false": "Échoués",
+  "insuree.header.verificationNo": "Numéro de vérification",
+  "insuree.header.fosaName": "Nom de la FOSA",
+  "insuree.header.createdDate": "Created Date",
+  "insuree.header.createdTime": "Created Time",
+  "insuree.header.verificationStatus": "Verification Status",
+  "insuree.header.claimInitiated": "Claim Initiated",
+  "insuree.header.action": "Action",
+  "payment.payment.receivedAmount1": "Montant reçu 1",
+  "payment.payment.receivedAmount2": "Montant reçu 2",
+  "payment.payment.receivedAmount3": "Montant reçu 3",
+  "payment.payment.receiptNo2": "N° de reçu 2",
+  "payment.payment.receiptNo3": "N° de reçu 3",
+  "payment.payment.declarationValidFrom": "Déclaration valable à partir de",
+  "payment.payment.declarationValidTo": "Déclaration valable jusqu'à"
   
 }
