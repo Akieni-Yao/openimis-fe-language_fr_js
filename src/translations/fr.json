@@ -2743,9 +2743,9 @@
   "location.medicalStaff.label":"Code de paiement",
   "location.HealthFacilityForm.legalStatus": "Forme juridique",
   "policyHolder.print": "Imprimer",
-  "claim.CamuDoctorPicker.label": "Doctors Camu Number",
+  "claim.CamuDoctorPicker.label": "Numéro CAMU du Médécin",
   "claim.CamuDoctorPicker.null": "Any",
-  "claim.CamuDoctorPicker.placeholder": "Search a Claim CamuDoctor",
+  "claim.CamuDoctorPicker.placeholder": "Numéro CAMU du Médécin",
   "location.medicalStaffDesignation.createConsultant": "Ajouter un nouveau consultant",
   "location.medicalStaff.lastName": "Nom de famille",
   "location.title.delete":"Supprimer l'utilisateur du personnel médical",
@@ -2785,6 +2785,9 @@
   "claim.VerificationPicker.label":"Verification Code",
   "claim.insuree.name":"Nom de l'assuré",
   "claim.camu.no":"Assuré Camu No.",
-  "claim.Insuree.info":"Insuree Information",
-  "claim.Medical.info":"Medical Information"
+  "claim.Insuree.info":"Information de l'assuré",
+  "claim.Medical.info":"Information médicale",
+  "payment.payment.previousDue":"Précédent Dû",
+  "claim.Insuree.relationShip":"Relation de l'assuré avec l'assuré principal"
+  
 }
