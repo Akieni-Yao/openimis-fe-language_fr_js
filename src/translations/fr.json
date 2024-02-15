@@ -2754,10 +2754,10 @@
   "insuree.verificationHistory.status.false": "Échoués",
   "insuree.header.verificationNo": "Numéro de vérification",
   "insuree.header.fosaName": "Nom de la FOSA",
-  "insuree.header.createdDate": "Created Date",
-  "insuree.header.createdTime": "Created Time",
-  "insuree.header.verificationStatus": "Verification Status",
-  "insuree.header.claimInitiated": "Claim Initiated",
+  "insuree.header.createdDate": "Sélectionner le code de vérification",
+  "insuree.header.createdTime": "Heure de création",
+  "insuree.header.verificationStatus": "Statut de vérification",
+  "insuree.header.claimInitiated": "Paiement initié",
   "insuree.header.action": "Action",
   "payment.payment.receivedAmount1": "Montant reçu 1",
   "payment.payment.receivedAmount2": "Montant reçu 2",
@@ -2782,12 +2782,12 @@
   "location.medicalStaffInsuree.dialog.delete.title": "Êtes-vous sûr de vouloir supprimer {otherNames} {lastName} du personnel médical?",
   "contribution.payType.BC": "Bank Cheque",
   "claim.claim.error": "Le paiement existe déjà avec ce numéro de Camu.",
-  "claim.VerificationPicker.label":"Verification Code",
+  "claim.VerificationPicker.label":"Code de vérification",
   "claim.insuree.name":"Nom de l'assuré",
   "claim.camu.no":"Assuré Camu No.",
   "claim.Insuree.info":"Information de l'assuré",
   "claim.Medical.info":"Information médicale",
   "payment.payment.previousDue":"Précédent Dû",
-  "claim.Insuree.relationShip":"Relation de l'assuré avec l'assuré principal"
-  
+  "claim.Insuree.relationShip":"Relation de l'assuré avec l'assuré principal",
+  "payment.payment.Code":"Code de paiement"
 }
