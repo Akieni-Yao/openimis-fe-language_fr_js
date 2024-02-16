@@ -2152,6 +2152,7 @@
     "claim.ClaimFilter.processedDateFrom": "Traité à partir de",
     "claim.ClaimFilter.processedDateTo": "Traité jusqu'à",
     "claim.claimSummaries.processedDate": "Traité le",
+    "claim.edit.items.pricevaluated": "Valorisé",
     "claim.edit.services.code": "",
     "claim.edit.services.name": "",
     "claim.edit.services.priceAppro": "",
