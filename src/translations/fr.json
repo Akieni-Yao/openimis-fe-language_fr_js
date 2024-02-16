@@ -2790,5 +2790,7 @@
   "claim.Medical.info":"Information médicale",
   "payment.payment.previousDue":"Précédent Dû",
   "claim.Insuree.relationShip":"Relation de l'assuré avec l'assuré principal",
-  "payment.payment.Code":"Code de paiement"
+  "payment.payment.Code":"Code de paiement",
+  "insuree.dialog.fingerprintVerified":"Empreinte digitale vérifiée",
+  "insuree.dialog.fingerprintNotVerified":"Fingerprint Not Verified"
 }
