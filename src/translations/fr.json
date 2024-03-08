@@ -2857,7 +2857,7 @@
     "calculation.label.CV: percent of income": "CV: percent",
     "calculation.label.CV: legacy": "CV: legacy",
     "calculation.label.CV: percent of income, no dependants": "CV: percent of income, no dependants",
-    "policyHolder.CreatePolicyHolder.PolicyHolder's contribution plan periodicity should be 1": "La périodicité du plan de contribution du souscripteur doit être de 1",
+    "policyHolder.CreatePolicyHolder.PolicyHolder's contribution plan periodicity should be 1.": "La périodicité du plan de contribution du souscripteur doit être de 1",
     "exceptionMainMenu": "Exceptions",
     "menu.insureeExceptions": "Exceptions pour les assurés",
     "menu.policyholderExceptions": "Exceptions pour les souscripteurs",
@@ -2908,7 +2908,7 @@
     "policyHolder.policyHolder.rejectComment.not_valid": "Les documents ne sont pas valides",
     "exception.exceptionPolicyholderApproval.label": "Approbation des exceptions par les souscripteurs",
     "exception.exceptionInsureeApproval.label": "Approbation des exceptions pour les assurés",
-    "policyHolder.CreatePolicyHolder.Payment already done for all contracts.": "Paiement déjà effectué pour tous les contrats."
-
+    "policyHolder.CreatePolicyHolder.Payment already done for all contracts.": "Paiement déjà effectué pour tous les contrats.",
+    "exception.month":"Exception Mois"
     
 }
