@@ -2914,6 +2914,6 @@
     "claim.mainDiagnosisCode": "Pathologie Code",
     "claim.secDiagnosis2code": "Pathologie 2 Code",
     "claim.secDiagnosis3code": "Pathologie 3 Code",
-    "claim.secDiagnosis4code": "Pathologie 4 Code"
-    
+    "claim.secDiagnosis4code": "Pathologie 4 Code",
+    "insuree.PrintCard":"Carte d'impression"
 }
