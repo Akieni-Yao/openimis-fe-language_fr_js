@@ -2944,5 +2944,7 @@
     "product.UploadDialog.invalid": "Non valides :",
     "product.UploadDialog.failed": "Échoués:",
     "product.UploadDialog.details": "Details:",
-    "product.UploadDialog.message": "Message:"
+    "product.UploadDialog.message": "Message:",
+    "tools.report.CAMU Insuree Card": "Carte d'assuré CAMU",
+    "tools.reportName.camu_insuree_card": "Carte d'assuré CAMU"
 }
