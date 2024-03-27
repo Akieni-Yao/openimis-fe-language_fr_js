@@ -2772,6 +2772,7 @@
     "insuree.header.verificationStatus": "Statut de vérification",
     "insuree.header.claimInitiated": "Paiement initié",
     "insuree.header.action": "Action",
+    "insuree.header.verifiedBy": "Vérifié par",
     "payment.payment.receivedAmount1": "Montant reçu 1",
     "payment.payment.receivedAmount2": "Montant reçu 2",
     "payment.payment.receivedAmount3": "Montant reçu 3",
@@ -2948,5 +2949,8 @@
     "product.UploadDialog.details": "Details:",
     "product.UploadDialog.message": "Message:",
     "tools.report.CAMU Insuree Card": "Carte d'assuré CAMU",
-    "tools.reportName.camu_insuree_card": "Carte d'assuré CAMU"
+    "tools.reportName.camu_insuree_card": "Carte d'assuré CAMU",
+    "insuree.insuree.Guardian1":"Tuteur 1",
+    "insuree.insuree.Guardian2":"Tuteur 2",
+    "insuree.insuree.Guardian3":"Vérification des empreintes digitales."
 }
