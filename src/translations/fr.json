@@ -2952,5 +2952,21 @@
     "tools.reportName.camu_insuree_card": "Carte d'assuré CAMU",
     "insuree.insuree.Guardian1":"Tuteur 1",
     "insuree.insuree.Guardian2":"Tuteur 2",
-    "insuree.insuree.Guardian3":"Vérification des empreintes digitales."
+    "insuree.insuree.Guardian3":"Vérification des empreintes digitales.",
+    "insuree.verification.adult":"Beneficiary is above 21 years and cannot be added to the family",
+    "insuree.verification.headUnderAge":"Family head age should be more than 16 years ",
+    "insuree.dialog.adultAlert": "Alert",
+    "insuree.dialog.adultAlertText": "Child is more than 18 Years. Kindly select the valid reason to add him/her as the beneficiary",
+    "insuree.dialog.exceptionValid": "Exception Valid Upto",
+    "insuree.dialog.exceptionAdd": "Add",
+    "insuree.ExceptionAdultReason": "Please Select the reason",
+    "insuree.ExceptionAdultReason.null": " ",
+    "insuree.ExceptionAdultReason.CST": "Child is studying",
+    "insuree.ExceptionAdultReason.HP": "Child need mendical attention",
+    "insuree.exceptionInsuree.title": "Exception Documents",
+    "insuree.dialog.exceptionReason": "Reason for exception",
+    "insuree.setHeadInsureeDialog.validationMessage": " {current} age is less than 16 years can't set as head insuree",
+    "insuree.changeInsureeFamilyDialog.addToFamily.button": "Add to family",
+    "insuree.CreateInsuree.adultExceptionSnackbar": "After Document Approval,Temporary CAMU number {label} will be added to the family"
+   
 }
