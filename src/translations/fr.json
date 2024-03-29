@@ -2965,8 +2965,12 @@
     "insuree.ExceptionAdultReason.HP": "L'enfant a besoin d'une assistance médicale",
     "insuree.exceptionInsuree.title": "Documents d'exception",
     "insuree.dialog.exceptionReason": "Motif de l'exception",
-    "insuree.setHeadInsureeDialog.validationMessage": " {current}  âgé de moins de 16 ans ne peut pas être désigné comme chef de famille.",
+    "insuree.setHeadInsureeDialog.validationMessage": " {current} âgé de moins de 16 ans ne peut pas être désigné comme chef de famille.",
     "insuree.changeInsureeFamilyDialog.addToFamily.button": "Ajouter à la famille",
-    "insuree.CreateInsuree.adultExceptionSnackbar": "Après approbation du document, le numéro CAMU temporaire {label} sera ajouté à la famille."
+    "insuree.CreateInsuree.adultExceptionSnackbar": "Après approbation du document, le numéro CAMU temporaire {label} sera ajouté à la famille.",
+    "claim.edit.services.Ticketmoderateur": "Ticket Moderateur",
+    "claim.edit.services.countedPrice": "Prix comptabilisé",
+    "claim.edit.items.Ticketmoderateur": "Ticket Moderateur",
+    "claim.edit.items.countedPrice": "Prix comptabilisé"
    
 }
