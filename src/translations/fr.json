@@ -2951,5 +2951,9 @@
     "tools.reportName.camu_insuree_card": "Carte d'assuré CAMU",
     "insuree.insuree.Guardian1":"Tuteur 1",
     "insuree.insuree.Guardian2":"Tuteur 2",
-    "insuree.insuree.Guardian3":"Vérification des empreintes digitales."
+    "insuree.insuree.Guardian3":"Vérification des empreintes digitales.",
+    "claim.edit.services.Ticketmoderateur": "Ticket Moderateur",
+    "claim.edit.services.countedPrice": "Counted Price",
+    "claim.edit.items.Ticketmoderateur": "Ticket Moderateur",
+    "claim.edit.items.countedPrice": "Counted Price"
 }
