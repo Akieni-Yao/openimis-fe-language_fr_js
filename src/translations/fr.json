@@ -2969,8 +2969,8 @@
     "insuree.changeInsureeFamilyDialog.addToFamily.button": "Add to family",
     "insuree.CreateInsuree.adultExceptionSnackbar": "After Document Approval,Temporary CAMU number {label} will be added to the family",
     "claim.edit.services.Ticketmoderateur": "Ticket Moderateur",
-    "claim.edit.services.countedPrice": "Counted Price",
+    "claim.edit.services.countedPrice": "Prix comptabilisé",
     "claim.edit.items.Ticketmoderateur": "Ticket Moderateur",
-    "claim.edit.items.countedPrice": "Counted Price"
+    "claim.edit.items.countedPrice": "Prix comptabilisé"
    
 }
