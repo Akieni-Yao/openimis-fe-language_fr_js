@@ -2998,7 +2998,7 @@
     "insuree.snackbar.approve": "La demande.{label} est approuvée",
     "insuree.snackbar.childAddingRequest": "L'ajout d'assuré(s) dans votre famille avec la demande n° {label} a été reçu.",
     "insuree.InsureeRemovalReason.null": "None",
-    "insuree.InsureeRemovalReason": "Please select the reason",
+    "insuree.InsureeRemovalReason": "Veuillez sélectionner la raison",
     "insuree.InsureeRemovalReason.DW": "Divorcé",
     "insuree.InsureeRemovalReason.RC": "Séparation des enfants à la suite d'un divorce",
     "insuree.InsureeRemovalReason.RR": "Supprimé par l'administrateur",
