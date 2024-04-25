@@ -3003,6 +3003,7 @@
     "insuree.InsureeRemovalReason.RC": "Séparation des enfants à la suite d'un divorce",
     "insuree.InsureeRemovalReason.RR": "Supprimé par l'administrateur",
     "insuree.buttonStatus.endofLife": "Fin de vie",
+    "insuree.buttonStatus.lossofjob": "Perte d'emploi",
     "insuree.Insuree.status.END_OF_LIFE": "Fin de vie",
     "insuree.heading.insureeHistory": "Assurés Historique",
     "insuree.heading.familyHistory": "Famille Historique",
@@ -3031,5 +3032,6 @@
     "insuree.action.INSUREE END OF LIFE":"INSUREE END OF LIFE",
     "insuree.action.INSUREE LOSS OF JOB":"INSUREE LOSS OF JOB",
     "admin.UserFilter.showHistory": "Historique"
+
 
 }
