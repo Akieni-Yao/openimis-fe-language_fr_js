@@ -95,10 +95,12 @@
     "claim.guaranteeId": "N° de garantie",
     "claim.claimStatus.null": "Tous",
     "claim.claimStatus.1": "Rejeté",
-    "claim.claimStatus.2": "Entré à",
-    "claim.claimStatus.4": "Vérifié",
-    "claim.claimStatus.8": "Traité",
-    "claim.claimStatus.16": "Évalué",
+    "claim.claimStatus.2": "Created",
+    "claim.claimStatus.4": "Submitted",
+    "claim.claimStatus.8": "Processed",
+    "claim.claimStatus.16": "Approved",
+    "claim.claimStatus.32": "Rework",
+    "claim.claimStatus.64": "Paid",
     "claim.ClaimFilter.claimNo": "N° de prestation",
     "claim.ClaimFilter.insureeCHFID": "N° de l'assuré",
     "claim.visitDateFrom": "Date de visite",
@@ -3031,7 +3033,41 @@
     "insuree.action.INSUREE BECOME HEAD OF THE FAMILY":"INSUREE BECOME HEAD OF THE FAMILY",
     "insuree.action.INSUREE END OF LIFE":"INSUREE END OF LIFE",
     "insuree.action.INSUREE LOSS OF JOB":"INSUREE LOSS OF JOB",
-    "admin.UserFilter.showHistory": "Historique"
+    "admin.UserFilter.showHistory": "Historique",
+    "policyHolder.Request Status.PENDING": "En attente",
+    "policyHolder.Request Status.APPROVED": "Approuvé",
+    "policyHolder.Request Status.REJECTED": "Rejeté",
+    "policyHolder.Request Status.SENT FOR REWORK": "Envoyé Pour Retravailler",
+    "policyHolder.Request Status": "Demande statut",
+    "policyHolder.Request No.": "N° de la demande",
+    "policyholder.status": "statut",
+    "policyholder.rejectComment": "Raison du Retravailler",
+    "policyHolder.policyHolder.rejectComment":"sélectionner Raison",
+    "policyHolder.policyHolder.rejectComment.null": " ",
+    "policyHolder.policyHolder.requeststatus.Pending":"En attente",
+    "policyHolder.policyHolder.requeststatus.Approved":"Approuvé",
+    "policyHolder.policyHolder.requeststatus.Rejected":"Rejeté",
+    "policyHolder.policyHolder.requeststatus.Rework":"Envoyé Pour Retravailler",
+    "policyHolder.policyHolder.requeststatus.Created":"Créé",
+    "policyHolder.dialog.portalapprovedTitle": "Souscripteur Portail Approbation",
+    "policyHolder.policyHolder.portalApprovalMsg": "Êtes-vous sûr de vouloir Approuvé Portail Numéro de la demande - {paymentCode}? ",
+    "policyHolder.snackbar.Portalapprove": "La demande de portail est approuvée avec succès !",
+    "policyHolder.snackbar.Portalreject": "La demande de portail est rejetée avec succès !",
+    "policyHolder.snackbar.ReworkPortalapprove": "La demande de portail est en attente et a été envoyée pour être retravaillée avec succès !",
+    "policyHolder.snackbar.ReworkPortalreject": "La demande de portail est en attente et a été envoyée pour être retravaillée avec succès !",
+    "policyHolder.dialog.portalrejectTitle": "Souscripteur Portail Rejet",
+    "policyHolder.dialog.RequestMissingInformation":"Demande Manquant Information",
+    "policyHolder.button.SendRequest":"Envoyer une demande",
+    "policyholder.DocumentName":"Nom du document",
+    "policyholder.ViewDocuments":"Apperçu des documents",
+    "menu.newPolicyHolder":"Nouveau Souscripteur Demandes"
+
+
+
+
+
+    
+    
 
 
 }
