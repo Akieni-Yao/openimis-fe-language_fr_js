@@ -3003,5 +3003,15 @@
     "insuree.InsureeRemovalReason.RC": "Séparation des enfants à la suite d'un divorce",
     "insuree.InsureeRemovalReason.RR": "Supprimé par l'administrateur",
     "insuree.buttonStatus.endofLife": "Fin de vie",
-    "insuree.Insuree.status.END_OF_LIFE": "Fin de vie"
+    "insuree.Insuree.status.END_OF_LIFE": "Fin de vie",
+    "policyHolder.policyHolder.requeststatus.Pending":"En attente",
+    "policyHolder.policyHolder.requeststatus.Approved":"Approuvé",
+    "policyHolder.policyHolder.requeststatus.Rejected":"Rejeté",
+    "policyHolder.policyHolder.requeststatus.Rework":"Remanié",
+    "policyHolder.policyHolder.requeststatus.Created":"Créé",
+    "policyHolder.Request Status.Pending": "En attente",
+    "policyHolder.Request Status.Approved": "Approuvé",
+    "policyHolder.Request Status.Rejected": "Rejeté",
+    "policyHolder.Request Status.Rework": "Remanié",
+    "policyHolder.Request Status": "Request Status"
 }
