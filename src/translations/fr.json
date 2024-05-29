@@ -3060,7 +3060,11 @@
     "policyHolder.button.SendRequest":"Envoyer une demande",
     "policyholder.DocumentName":"Nom du document",
     "policyholder.ViewDocuments":"Apperçu des documents",
-    "menu.newPolicyHolder":"Nouveau Souscripteur Demandes"
+    "menu.newPolicyHolder":"Nouveau Souscripteur Demandes",
+    "policyHolder.Request Status.Pending": "En attente",
+    "policyHolder.Request Status.Approved": "Approuvé",
+    "policyHolder.Request Status.Rejected": "Rejeté",
+    "policyHolder.Request Status.Rework": "Remanié"
 
 
 
