@@ -1451,6 +1451,7 @@
     "policyHolder.policyHolderInsuree.dialog.delete.title": "Êtes-vous sûr de vouloir supprimer {autresNoms} {nom de famille} ?",
     "policyHolder.policyHolderInsuree.dialog.replace.title": "Ajouter une nouvelle version de Policy Holder Insuree",
     "policyHolder.policyHolderInsuree.import": "Importation des assurés",
+    "policyHolder.policyHolder.import": "Importation des exceller",
     "policyHolder.dialog.cancel": "Annuler",
     "policyHolder.dialog.create": "Créer",
     "policyHolder.dialog.update": "Sauvez",
