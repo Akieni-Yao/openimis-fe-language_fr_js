@@ -95,12 +95,12 @@
     "claim.guaranteeId": "N° de garantie",
     "claim.claimStatus.null": "Tous",
     "claim.claimStatus.1": "Rejeté",
-    "claim.claimStatus.2": "Created",
-    "claim.claimStatus.4": "Submitted",
-    "claim.claimStatus.8": "Processed",
-    "claim.claimStatus.16": "Approved",
-    "claim.claimStatus.32": "Rework",
-    "claim.claimStatus.64": "Paid",
+    "claim.claimStatus.2": "Créé",
+    "claim.claimStatus.4": "soumise",
+    "claim.claimStatus.8": "En cours de traitement",
+    "claim.claimStatus.16": "Approuvé",
+    "claim.claimStatus.32": "Remaniement",
+    "claim.claimStatus.64": "Payé",
     "claim.ClaimFilter.claimNo": "N° de prestation",
     "claim.ClaimFilter.insureeCHFID": "N° de l'assuré",
     "claim.visitDateFrom": "Date de visite",
@@ -1451,7 +1451,7 @@
     "policyHolder.policyHolderInsuree.dialog.delete.title": "Êtes-vous sûr de vouloir supprimer {autresNoms} {nom de famille} ?",
     "policyHolder.policyHolderInsuree.dialog.replace.title": "Ajouter une nouvelle version de Policy Holder Insuree",
     "policyHolder.policyHolderInsuree.import": "Importation des assurés",
-    "policyHolder.policyHolder.import": "Importation des exceller",
+    "policyHolder.policyHolder.import": "importer la liste des prix",
     "policyHolder.dialog.cancel": "Annuler",
     "policyHolder.dialog.create": "Créer",
     "policyHolder.dialog.update": "Sauvez",
@@ -3066,7 +3066,6 @@
     "policyHolder.Request Status.Approved": "Approuvé",
     "policyHolder.Request Status.Rejected": "Rejeté",
     "policyHolder.Request Status.Rework": "Remanié"
-
 
 
 
