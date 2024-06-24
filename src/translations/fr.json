@@ -3106,6 +3106,7 @@
   "policyHolder.update":"Modifier",
   "core.common.Copied":"copier!",
   "core.common.Copy":"copier",
-  "insuree.Insuree.Statut":"Statut"
-
+  "insuree.Insuree.Statut":"Statut",
+  "medical_pricelist.pricelistsSearcher.table.servicetitle": "{count} Liste de prix des services",
+  "medical_pricelist.pricelistsSearcher.table.itemstitle": "{count} Liste des prix des articles"
 }
