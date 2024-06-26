@@ -2724,7 +2724,7 @@
   "contract.dateError.message3": "L'ensemble de plans de contribution n'a pas été trouvé pour ce souscripteur",
   "contract.dateError.message4": "Souscripteur non trouvé",
   "contract.dateError.message5": "Mois non valide ! La déclaration du mois en cours ou du mois précédent est déjà crééé.",
-  "contract.CreateContract.snackbar": "Contrat Code",
+  "contract.CreateContract.snackbar": "N° de Déclaration",
   "location.bankKeyValidation.regexMsg.en": "Le RIB contient 2 chiffres",
   "medical.serviceCategoryType": "Type de catégorie",
   "medical.serviceCategoryType.any": "None",
