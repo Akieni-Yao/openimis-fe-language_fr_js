@@ -2546,7 +2546,7 @@
   "location.HealthFacilityForm.longitude": "Longitude",
   "location.HealthFacilityForm.phone2": "Téléphone 2",
   "location.HealthFacilityForm.bankReferences": "Références bancaires",
-  "location.HealthFacilityForm.contactName": "Dernier contact",
+  "location.HealthFacilityForm.contactName": "Nom du contact",
   "location.HealthFacilityForm.contactFirstNames": "Prénoms du contact",
   "location.HealthFacilityForm.contactPhone": "Téléphone du contact",
   "location.HealthFacilityForm.type.private": "Secteur Privé",
