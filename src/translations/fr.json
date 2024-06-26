@@ -3108,5 +3108,6 @@
   "core.common.Copy":"copier",
   "insuree.Insuree.Statut":"Statut",
   "medical_pricelist.pricelistsSearcher.table.servicetitle": "{count} Liste de prix des services",
-  "medical_pricelist.pricelistsSearcher.table.itemstitle": "{count} Liste des prix des articles"
+  "medical_pricelist.pricelistsSearcher.table.itemstitle": "{count} Liste des prix des articles",
+  "payment.payment.errorRecived":"Le montant reçu est supérieur au montant total dû"
 }
