@@ -929,7 +929,7 @@
   "contribution.payType.B": "Virement bancaire",
   "contribution.payType.C": "Espèces",
   "contribution.payType.M": "Téléphone portable",
-  "contribution.payType.null": "Tout",
+  "contribution.payType.null": " ",
   "contribution.policy": "Police",
   "contribution.PremiumPaymentTypePicker.label": "Type de paiement",
   "contribution.receipt": "N° de reçu",
