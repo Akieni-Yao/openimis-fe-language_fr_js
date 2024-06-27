@@ -2577,6 +2577,7 @@
   "insuree.menu.pendingApproval": "En attente d'approbation",
   "insuree.Insuree.pendingApproval": "En attente d'approbation",
   "insuree.PedingApproval.tempCamuNo": "Numéro CAMU temporaire",
+  "insuree.PedingApproval.CAMU No.": "Numéro CAMU",
   "insuree.PedingApproval.firstName": "Prénom",
   "insuree.PedingApproval.lastName": "Nom de famille",
   "insuree.PedingApproval.gender": "Genre",
@@ -3109,5 +3110,6 @@
   "insuree.Insuree.Statut":"Statut",
   "medical_pricelist.pricelistsSearcher.table.servicetitle": "{count} Liste de prix des services",
   "medical_pricelist.pricelistsSearcher.table.itemstitle": "{count} Liste des prix des articles",
-  "payment.payment.errorRecived":"Le montant reçu est supérieur au montant total dû"
+  "payment.payment.errorRecived":"Le montant reçu est supérieur au montant total dû",
+  "insuree.FamilyCreated":"Famille créée avec un numéro CAMU temporaire"
 }
