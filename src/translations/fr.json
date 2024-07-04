@@ -3148,11 +3148,12 @@
   "payment.penalty.status.null": " ",
   "payment.penalty.status.-1": "Rejeté",
   "payment.penalty.status.1": "Non Payé",
-  "payment.penalty.status.2": "En attente",
-  "payment.penalty.status.3": "En cours de traitement",
-  "payment.penalty.status.4": "Réduite",
-  "payment.penalty.status.5": "Annulé",
-  "payment.penalty.status.6": "Payé",
+  "payment.penalty.status.2": "Impayé",
+  "payment.penalty.status.3": "Payé",
+  "payment.penalty.status.4": "Annulé",
+  "payment.penalty.status.5": "Réduite",
+  "payment.penalty.status.6": "En cours de traitement",
+  "payment.penalty.status.7": "Approuvé",
   "payment.penalty.type": "Par Type",
   "payment.penalty.type.null": " ",
   "payment.penalty.type.sanction": "Sanction",
@@ -3208,8 +3209,7 @@
   "payment.ReasonToSanctionAmount":"Reason To Sanction Amount",
   "payment.SanctionAmount":"Montant de la sanction",
   "payment.NewSanctionAmount":"Nouvelle Montant de la sanction",
-  "payment.penaltySummaries": "{count} Pénalités(s) found"
-
-
-
+  "payment.penaltySummaries": "{count} Pénalités(s) found",
+  "payment.payment.EmailAddress":"Email",
+  "payment.payment.Phone":"Téléphone"
 }
