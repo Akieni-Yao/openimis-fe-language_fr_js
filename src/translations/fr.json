@@ -3203,7 +3203,13 @@
   "payment.payment.receiptNo1": "Payment Proof Reference No. 1",
   "payment.payment.period": "N° de reçu 1",
   "payment.payment.newTransaction": "New Transaction",
-  "payment.payment.receivedAmount{count}": "Received Amount {count}"
+  "payment.payment.receivedAmount{count}": "Received Amount {count}",
+  "payment.Payment.penaltydocumentTitle": "Pénalité Preuve de paiement",
+  "payment.ReasonToSanctionAmount":"Reason To Sanction Amount",
+  "payment.SanctionAmount":"Montant de la sanction",
+  "payment.NewSanctionAmount":"Nouvelle Montant de la sanction",
+  "payment.penaltySummaries": "{count} Pénalités(s) found"
+
 
 
 }
