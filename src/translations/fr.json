@@ -3185,9 +3185,9 @@
   "payment.ReducedSanction":"Sanction réduite",
   "payment.RecievedSanction":"Sanction reçue",
   "payment.payment.RequestBy": "Demande par",
-  "payment.payment.ReceivedDate": "ReceivedDate",
-  "payment.payment.ReceivedBy": "ReceivedBy",
-  "payment.payment.ReceivedAmount": "ReceivedAmount",
+  "payment.payment.ReceivedDate": "Date de réception",
+  "payment.payment.ReceivedBy": "Reçu par",
+  "payment.payment.ReceivedAmount": "Montant reçu",
   "payment.payment.PaymentProofReference": "Référence de la preuve de paiement",
   "payment.payment.BankName": "Nom de la banque",
   "payment.payment.ReasonToCancelPenalty": "Motif d'annulation de l'amende",
@@ -3212,5 +3212,10 @@
   "payment.penaltySummaries": "{count} Pénalités(s) found",
   "payment.payment.EmailAddress":"Email",
   "payment.payment.Phone":"Téléphone",
-  "payment.menu.penalty": "Pénalités"
+  "payment.menu.penalty": "Pénalités",
+  "payment.payment.PaymentType":"Type de paiement", 
+  "payment.Payment Penalty have been Recieved":"Payment Penalty have been Recieved",
+  "payment.Failed to done any action on Payment Penalty.":"Failed to done any action on Payment Penalty.",
+  "payment.Payment Penalty have been Rejected":"Payment Penalty have been Rejected",
+  "payment.Payment Penalty Sanction have been Reduced":"Payment Penalty Sanction have been Reduced"
 }
