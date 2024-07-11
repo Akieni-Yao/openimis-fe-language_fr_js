@@ -1843,7 +1843,7 @@
   "menu": {
     "invoices": "Factures",
     "bills": "Factures",
-    "penaltyAndSanctionApproval": "Penalty and Sanction Approval"
+    "penaltyAndSanctionApproval": "Approbation de la pénalité et de la sanction"
   },
   "emptyLabel": "",
   "any": "Tout",
@@ -3145,7 +3145,7 @@
   "claim.snackbar.ReworkPortalreject": "La demande est en attente et envoyée pour être retravaillée",
   "claim.snackbar.ReworkPortalapprove": "La réclamation est en attente et a été envoyée pour être retravaillée avec succès !",
   "claim.claim.claimNo": "Numéro de Camu.",
-  "payment.penalty.status": "By Status",
+  "payment.penalty.status": "Par Statut",
   "payment.penalty.status.null": " ",
   "payment.penalty.status.-1": "Rejeté",
   "payment.penalty.status.1": "Non Payé",
@@ -3214,18 +3214,25 @@
   "payment.payment.EmailAddress": "Email",
   "payment.payment.Phone": "Téléphone",
   "payment.menu.penalty": "Pénalités",
-  "payment.rejectionDate": "Rejection Date",
+  "payment.rejectionDate": "Date de rejet",
   "payment.rejectionReason": "Raison du rejet",
-  "payment.rejectedBy": "Rejected By",
-  "payment.rejectionDetails": "Rejection Details",
-  "payment.dialog.rejectPenaltyTitle": "Rejection Confirmation",
+  "payment.rejectedBy": "Rejeté par",
+  "payment.rejectionDetails": "Détails du rejet",
+  "payment.dialog.rejectPenaltyTitle": "Confirmation du rejet",
   "payment.dialog.approvedPenaltyTitle": "Confirmation",
-  "payment.payment.penaltyApprovalMsg": "Are you sure, you want to approve this request ?",
-  "payment.penaltysnackbar.approve": "Penalty is approved successfully!",
-  "payment.penaltysnackbar.reject": "Penalty is rejected successfully!",
+  "payment.payment.penaltyApprovalMsg": "Êtes-vous sûr de vouloir approuver cette demande ?",
+  "payment.penaltysnackbar.approve": "L'amende a été approuvée avec succès !",
+  "payment.penaltysnackbar.reject": "L'amende a été rejetée avec succès !",
   "payment.payment.PaymentType":"Type de paiement", 
   "payment.Payment Penalty have been Recieved":"La pénalité de paiement a été reçue",
   "payment.Failed to done any action on Payment Penalty.":"Aucune mesure n'a été prise concernant la pénalité de paiement.",
   "payment.Payment Penalty have been Rejected":"La pénalité de paiement a été rejetée.",
-  "payment.Payment Penalty Sanction have been Reduced":"L'amende de paiement a été réduite"
+  "payment.Payment Penalty Sanction have been Reduced":"L'amende de paiement a été réduite",
+  "payment.OutstandingDetails":"Détails impayé",
+  "payment.payment.sanctionReduceAmount":"Sanction Reduce Amount",
+  "payment.payment.reasontoreducethesanctionamount":"Reason to Reduce the Sanction Amount",
+  "payment.newSanctioAmountToBePaid:": "New Sanction Amount To Be Paid: XAF",
+  "payment.SanctionReductionDetails":"Sanction Reduction Details"
+
+
 }
