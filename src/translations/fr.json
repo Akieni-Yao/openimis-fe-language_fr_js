@@ -3229,10 +3229,10 @@
   "payment.Payment Penalty have been Rejected":"La pénalité de paiement a été rejetée.",
   "payment.Payment Penalty Sanction have been Reduced":"L'amende de paiement a été réduite",
   "payment.OutstandingDetails":"Détails impayé",
-  "payment.payment.sanctionReduceAmount":"Sanction Reduce Amount",
-  "payment.payment.reasontoreducethesanctionamount":"Reason to Reduce the Sanction Amount",
-  "payment.newSanctioAmountToBePaid:": "New Sanction Amount To Be Paid: XAF",
-  "payment.SanctionReductionDetails":"Sanction Reduction Details"
+  "payment.payment.sanctionReduceAmount":"Réduction du montant de la sanction",
+  "payment.payment.reasontoreducethesanctionamount":"Raison de la réduction du montant de la sanction",
+  "payment.newSanctioAmountToBePaid:": "Nouveau montant de la sanction à payer : XAF",
+  "payment.SanctionReductionDetails":"Détails de la réduction de la sanction"
 
 
 }
