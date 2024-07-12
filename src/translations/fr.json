@@ -3239,6 +3239,7 @@
   "medical.service.notRequired": "Not Required",
   "medical.service.requiredWithCondition": "Required with condition",
   "medical.service.fullAmount": "Full Amount",
-  "medical.service.quantity": "Quantity"
+  "medical.service.quantity": "Quantity",
+  "payment.Penalty&Sanction.title": "Pénalité et Sanction {code}"
 
 }
