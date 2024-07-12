@@ -3232,7 +3232,13 @@
   "payment.payment.sanctionReduceAmount":"Réduction du montant de la sanction",
   "payment.payment.reasontoreducethesanctionamount":"Raison de la réduction du montant de la sanction",
   "payment.newSanctioAmountToBePaid:": "Nouveau montant de la sanction à payer : XAF",
-  "payment.SanctionReductionDetails":"Détails de la réduction de la sanction"
-
+  "payment.SanctionReductionDetails":"Détails de la réduction de la sanction",
+  "medical.service.MedicalServicePriorTitle": "Prior Authorization Configuration",
+  "medical.service.morethanQuantity": "More than a specific quantity",
+  "medical.service.Required": "Required",
+  "medical.service.notRequired": "Not Required",
+  "medical.service.requiredWithCondition": "Required with condition",
+  "medical.service.fullAmount": "Full Amount",
+  "medical.service.quantity": "Quantity"
 
 }
