@@ -3240,6 +3240,11 @@
   "medical.service.requiredWithCondition": "Required with condition",
   "medical.service.fullAmount": "Full Amount",
   "medical.service.quantity": "Quantity",
-  "payment.Penalty&Sanction.title": "Pénalité et Sanction {code}"
+  "payment.Penalty&Sanction.title": "Pénalité et Sanction {code}",
+  "product.PenaltiesTabForm.PenaltyandSanctionConfiguration":"Configuration Pénalité et Sanction",
+  "product.SanctionAmount":"Montant de la sanction",
+  "product.2PenaltyRate%":"2 Taux de pénalité%",
+  "product.1PenaltyRate%":"1 Taux de pénalité%"
+
 
 }
