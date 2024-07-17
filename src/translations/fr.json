@@ -3127,13 +3127,13 @@
   "medical_pricelist.pricelistsSearcher.table.itemstitle": "{count} Liste des prix des articles",
   "payment.payment.errorRecived": "Le montant reçu est supérieur au montant total dû",
   "insuree.FamilyCreated": "Famille créée avec un numéro CAMU temporaire",
-  "claim.claimSummaries.submitter": "Claim Submitter",
-  "claim.dialog.portalapprovedTitle": "Claim Approval",
-  "claim.dialog.paidTitle": "Claim Paid",
-  "claim.dialog.portalrejectTitle": "Reason to Reject",
-  "claim.claim.ApprovalMsg": "Are you sure, you want to approve the Exception - {paymentCode}? ",
-  "claim.claim.portalApprovalMsg": "Are you sure, you want to approve this claim - {paymentCode}? ",
-  "claim.claim.paidMsg": "Are you sure, you want to paid for this claim - {paymentCode}? ",
+  "claim.claimSummaries.submitter": "Déposant de la réclamation",
+  "claim.dialog.portalapprovedTitle": "Approbation de la demande",
+  "claim.dialog.paidTitle": "Réclamation payée",
+  "claim.dialog.portalrejectTitle": "Raison du rejet",
+  "claim.claim.ApprovalMsg": "Êtes-vous sûr de vouloir approuver cette demande ? - {paymentCode}? ",
+  "claim.claim.portalApprovalMsg": "Êtes-vous sûr de vouloir approuver cette demande ? - {paymentCode}? ",
+  "claim.claim.paidMsg": "Êtes-vous sûr de vouloir payer pour cette demande ?- {paymentCode}? ",
   "claim.button.approved": "Oui,Approuvé",
   "claim.button.paid": "Oui,Payé",
   "claim.button.reject": "Rejet",
@@ -3247,5 +3247,11 @@
   "product.1PenaltyRate%": "1 Taux de pénalité%",
   "product.Product Created Sucessfully": "Produit créé avec succès",
   "product.Unable to Update Product": "Impossible de mettre à jour le produit",
-  "product.Product Updated Sucessfully": "Produit mis à jour avec succès"
+  "product.Product Updated Sucessfully": "Produit mis à jour avec succès",
+  "claim.Authattachments.title": "Attachments of Pre-Authorization {code}",
+  "payment.OutStandingAmounttoPaidXAF:": "Impayé Montant à payer: XAF",
+  "payment.AmountPaid:": "Montant Payé: XAF",
+  "payment.TotalAmountRequired:XAF:": "Total Montant: XAF"
+
+
 }
