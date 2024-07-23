@@ -3249,7 +3249,7 @@
   "product.Product Created Sucessfully": "Produit créé avec succès",
   "product.Unable to Update Product": "Impossible de mettre à jour le produit",
   "product.Product Updated Sucessfully": "Produit mis à jour avec succès",
-  "claim.Authattachments.title": "Attachments of Pre-Authorization {code}",
+  "claim.Authattachments.title": "Pièces jointes de l'accord préalable {code}",
   "payment.OutStandingAmounttoPaidXAF:": "Impayé Montant à payer: XAF",
   "payment.AmountPaid:": "Montant Payé: XAF",
   "payment.TotalAmountRequired:XAF:": "Total Montant: XAF",
@@ -3261,7 +3261,7 @@
   "claim.insureeCamuNo":"Numéro CAMU",
   "claim.insureeName":"Nom de famille",
   "claim.status":"Statut",
-  "claim.PreAuthSummaries":"Pre Authorization List",
+  "claim.PreAuthSummaries":"Liste d'accord préalable",
   "claim.claimAuth.status": "Statut",
   "claim.claimAuth.status.null": " ",
   "claim.claimAuth.status.1": "Créé",
@@ -3269,15 +3269,16 @@
   "claim.claimAuth.status.-1": "Rejeté",
   "claim.claimAuth.status.2": "En attente d'approbation",
   "claim.claimAuth.status.3": "Remanié",
-  "claim.claim.SubmitMsg": "Are you sure, you want to Submit this Pre-Authorization Request - {paymentCode}? ",
+  "claim.claim.SubmitMsg": "Etes-vous sûr de vouloir soumettre cette demande d'accord préalable ? - {paymentCode}? ",
   "claim.dialog.SubmitTitle": "Pre-Authrization Submit",
   "claim.button.submit": "Submit",
   "claim.snackbar.AuthorizationSubmit": "Authorization is Submitted successfully!",
   "claim.AddDocuments":"Ajouter Documents",
-  "claim.snackbar.FailedAction": "Unable to Uptate the PreAuthorization Request",
-  "claim.snackbar.CreateFailedAction": "Unable to Create the PreAuthorization Request",
-  "claim.PreAuthorizationDocuments":"Pre Authorization Documents"
-
-
-
+  "claim.snackbar.FailedAction": "Impossible de mettre à jour la demande d'accord préalable",
+  "claim.snackbar.CreateFailedAction": "Impossible de créer la demande d'accord préalable",
+  "claim.PreAuthorizationDocuments":"Pre Authorization Documents",
+  "claim.claim.status":"Statut",
+  "claim.Submit": "Soumettre",
+  "claim.snackbar.AuthCreated": "Impossible de créer la demande d'accord préalable",
+  "claim.snackbar.AuthUpdated": "Impossible de mettre à jour la demande d'accord préalable"
 }
