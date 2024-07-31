@@ -3158,8 +3158,8 @@
   "payment.penalty.status.7": "Approuvé",
   "payment.penalty.type": "Par Type",
   "payment.penalty.type.null": " ",
-  "payment.penalty.type.sanction": "Sanction",
-  "payment.penalty.type.penalty": "Pénalité",
+  "payment.penalty.type.Sanction": "Sanction",
+  "payment.penalty.type.Penalty": "Pénalité",
   "payment.payment.declarationID": "ID de la déclaration",
   "payment.payment.DeclarationID": "ID de la déclaration",
   "payment.payment.Period": "Période",
@@ -3280,5 +3280,9 @@
   "claim.claim.status":"Statut",
   "claim.Submit": "Soumettre",
   "claim.snackbar.AuthCreated": "Impossible de créer la demande d'accord préalable",
-  "claim.snackbar.AuthUpdated": "Impossible de mettre à jour la demande d'accord préalable"
+  "claim.snackbar.AuthUpdated": "Impossible de mettre à jour la demande d'accord préalable",
+  "payment.penalty.status.-2": "Reduced Rejected",
+  "payment.penalty.status.8": "Reduced Approved",
+  "claim.SelectedHealthFacliryisnotMatchwithAutorizesHealthFacility":"Selected HealthFaclity is not Match with Autorized HealthFacility",
+  "claim.GrandTotal(Services Acts + Services Examination + Medical Items):":"Grand Total (Services Acts + Services Examination + Medical Items):"
 }
