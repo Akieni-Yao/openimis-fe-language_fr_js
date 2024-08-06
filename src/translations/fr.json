@@ -3218,6 +3218,7 @@
   "payment.rejectionDate": "Date de rejet",
   "payment.rejectionReason": "Raison du rejet",
   "payment.rejectedBy": "Rejeté par",
+  "payment.CreationDate":"Date de création",
   "payment.rejectionDetails": "Détails du rejet",
   "payment.dialog.rejectPenaltyTitle": "Confirmation du rejet",
   "payment.dialog.approvedPenaltyTitle": "Confirmation",
