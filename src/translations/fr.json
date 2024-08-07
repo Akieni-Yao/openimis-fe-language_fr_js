@@ -3289,5 +3289,7 @@
   "claim.claim.preAuthApprovalMsg": "Are you sure, you want to approve this Pre Authorization Request No. - {paymentCode}? ",
   "claim.claim.rejectComment": "Reason for Rejection",
   "claim.claim.rejectCommentPlaceholder": "Please write your comments here",
-  "claim.dialog.preAuthApprovedTitle": "Confirmation"
+  "claim.dialog.preAuthApprovedTitle": "Confirmation",
+  "insuree.buttonStatus.notActive": "Not Active",
+  "insuree.Insuree.status.NOT_ACTIVE": "Not Active"
 }
