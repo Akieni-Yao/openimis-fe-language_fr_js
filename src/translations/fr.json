@@ -3218,6 +3218,7 @@
   "payment.rejectionDate": "Date de rejet",
   "payment.rejectionReason": "Raison du rejet",
   "payment.rejectedBy": "Rejeté par",
+  "payment.CreationDate":"Date de création",
   "payment.rejectionDetails": "Détails du rejet",
   "payment.dialog.rejectPenaltyTitle": "Confirmation du rejet",
   "payment.dialog.approvedPenaltyTitle": "Confirmation",
@@ -3296,6 +3297,8 @@
   "claim.GrandTotal(Services Acts + Services Examination + Medical Items):":"Total général (actes de services + examens de services + articles médicaux):",
   "claim.PreAuthorization.title": "Demandes d'accord préalable {code}",
   "payment.TotalAmountPaid:XAF": "Total Payé: XAF",
+  "insuree.buttonStatus.notActive": "Not Active",
+  "insuree.Insuree.status.NOT_ACTIVE": "Not Active",
   "claim.totalTMValue": "Total TMValue: {totalTMValue}",
   "claim.totalCounterPriceValue": "Total Counted Price: {totalCounterPriceValue}"
 }
