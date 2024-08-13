@@ -3306,6 +3306,8 @@
   "claim.totalCounterPriceValue": "Total Prix comptabilisé: {totalCounterPriceValue}",
   "claim.GrandTotalTmValue:": "Total Ticket Moderateur XAF:",
   "claim.GrandTotalCountedPrice:": "Total Prix comptabilisé XAF:",
-  "claim.edit.examination.title": "Examen"
+  "claim.edit.examination.title": "Examen",
+  "claim.reworkReason":"Motif du Remaniement"
+
 
 }
