@@ -3299,6 +3299,10 @@
   "payment.TotalAmountPaid:XAF": "Total Payé: XAF",
   "insuree.buttonStatus.notActive": "Not Active",
   "insuree.Insuree.status.NOT_ACTIVE": "Not Active",
-  "claim.totalTMValue": "Total TMValue: {totalTMValue}",
-  "claim.totalCounterPriceValue": "Total Counted Price: {totalCounterPriceValue}"
+  "claim.totalTMValue": "Total Ticket Moderateur: {totalTMValue}",
+  "claim.totalCounterPriceValue": "Total Prix comptabilisé: {totalCounterPriceValue}",
+  "claim.GrandTotalTmValue:": "Total Ticket Moderateur XAF:",
+  "claim.GrandTotalCountedPrice:": "Total Prix comptabilisé XAF:",
+  "claim.edit.examination.title": "Examen"
+
 }
