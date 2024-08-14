@@ -3307,7 +3307,8 @@
   "claim.GrandTotalTmValue:": "Total Ticket Moderateur XAF:",
   "claim.GrandTotalCountedPrice:": "Total Prise En Charge XAF:",
   "claim.edit.examination.title": "Examen",
-  "claim.reworkReason":"Motif du Remaniement"
+  "claim.reworkReason":"Motif du Remaniement",
+  "claim.amount:":"Montant"
 
 
 }
