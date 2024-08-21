@@ -3308,7 +3308,10 @@
   "claim.GrandTotalCountedPrice:": "Total Prise En Charge XAF:",
   "claim.edit.examination.title": "Examen",
   "claim.reworkReason":"Motif du Remaniement",
-  "claim.amount:":"Montant"
+  "claim.amount:":"Montant",
+  "tools.erp.status.0":"Need to Resync",
+  "tools.erp.status.1":"Success",
+  "tools.erp.status.-1":"Failed"
 
 
 }
