@@ -1356,7 +1356,7 @@
   "policy.PolicyOfficerPicker.placeholder": "Recherche d'un agent...",
   "policyHolder.menu.policyHolders": "Immatriculation",
   "policyHolder.policyHolders.page.title": "Employeur/Collectivité",
-  "policyHolder.policyHolder": "Employeur/Collectivité",
+  "policyHolder.policyHolder": "Souscripteur",
   "policyHolder.code": "Code CAMU",
   "policyHolder.tradeName": "Nom ou Raison sociale ",
   "policyHolder.mandatoryField.error": "Ce champ est obligatoire",
