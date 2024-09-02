@@ -3372,6 +3372,7 @@
   "admin.operation.accessId": "Access Id",
   "admin.deleteErpOperation.mutationLabel": "Remove ERP Operation",
   "admin.deleteOperation.mutationLabel": "Delete ERP operation {label}",
-  "admin.deleteErpOperationDialog.message": "Do you want to  delete this ERP Operation {label}?"
+  "admin.deleteErpOperationDialog.message": "Do you want to  delete this ERP Operation {label}?",
+  "admin.Codealreadyexist":"Code already exist"
 
 }
