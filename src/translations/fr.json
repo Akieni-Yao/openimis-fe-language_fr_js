@@ -3382,7 +3382,8 @@
   "admin.operation.title": "Operation Management",
   "admin.operation.newTitle": "Create Operation Management",
   "admin.operationMangement": "{count} Operation Management Found",
-  "admin.sucess.FosaConfigurationSucessfullyCreated":"FosaConfiguration Sucessfully Created"
+  "admin.sucess.FosaConfigurationSucessfullyCreated":"FosaConfiguration Sucessfully Created",
+  "admin.headPanelFosaCategory.title":"Medical Service Category"
 
 
 }
