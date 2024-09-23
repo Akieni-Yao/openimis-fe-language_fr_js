@@ -3383,7 +3383,14 @@
   "admin.operation.newTitle": "Create Operation Management",
   "admin.operationMangement": "{count} Operation Management Found",
   "admin.sucess.FosaConfigurationSucessfullyCreated":"FosaConfiguration Sucessfully Created",
-  "admin.headPanelFosaCategory.title":"Medical Service Category"
+  "admin.headPanelFosaCategory.title":"Medical Service Category",
+  "policyholder.unpdaidDeclaration.title": "Declarations",
+  "policyholder.action": "Action",
+  "policyholder.appliedPenalties.title": "Penalités",
+  "policyholder.openSanction.title": "Sanction",
+  "policyholder.openSanction.btn": "Payé",
+  "policyholder.openSanction.paidStatus": "Payé",
+  "policyHolder.policyHolder.unlockPolicyholder": "Devérouillé le souscripteur"
 
 
 }
