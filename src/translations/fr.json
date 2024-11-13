@@ -3417,7 +3417,7 @@
   "policyholder.openSanction.title": "Sanction",
   "policyholder.openSanction.btn": "Payé",
   "policyholder.openSanction.paidStatus": "Payé",
-  "policyHolder.policyHolder.unlockPolicyholder": "Devérouillé le souscripteur"
-
+  "policyHolder.policyHolder.unlockPolicyholder": "Devérouillé le souscripteur",
+  "claim.generateInvoice.title": "Générer la facture"
 
 }
