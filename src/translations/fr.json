@@ -2777,7 +2777,7 @@
   "location.medicalStaffDesignation.pharmacist": "Pharmacien",
   "location.medicalStaffDesignation.sanitary_assistant": "Assistant sanitaire",
   "location.medicalStaffDesignation.caregiver": "Aide-soignant",
-  "location.medicalStaffDesignation.other": "Autre",  
+  "location.medicalStaffDesignation.other": "Autre",
   "location.medicalStaffDesignation.consultant": "Personnel Prestataire",
   "location.designation": "Fonction",
   "location.medicalStaff.firstName": "Prénom",
@@ -3112,6 +3112,8 @@
   "policyHolder.Request Status.Approved": "Approuvé",
   "policyHolder.Request Status.Rejected": "Rejeté",
   "policyHolder.Request Status.Rework": "Remanié",
+  "policyHolder.unlockPage.title": "Débloquer un souscripteur",
+  "contract.declarationPeriod": "Période",
   "insuree.CategoryChangesApproval.label": "Approbation du changements de catégorie",
   "insuree.Insuree.pendingApprovals": "En attente d'approbation {count}",
   "insuree.CategoryApproval.title": "Changements de catégorie",
@@ -3203,9 +3205,9 @@
   "payment.payment.OutstandingAmount": "Montant impayé",
   "payment.payment.CAMUCode": "CAMU Code",
   "payment.PolicyHolderName": "Nom du souscripteur",
-  "payment.payment.PenaltyPeriod": "Pénalité Période",
+  "payment.payment.PenaltyPeriod": "Période",
   "payment.payment.DeclarationPeriod": "Période de déclaration",
-  "payment.payment.DeclarationAmount": "Déclaration Montant",
+  "payment.payment.DeclarationAmount": "Montant de la Déclaration",
   "payment.exportlist": "liste d'exportation",
   "payment.payment.Penalty&Sanction": "Pénalité et Sanction",
   "payment.PolicyHolderDetail": "Détails du souscripteur",
@@ -3418,6 +3420,6 @@
   "policyholder.openSanction.btn": "Payé",
   "policyholder.openSanction.paidStatus": "Payé",
   "policyHolder.policyHolder.unlockPolicyholder": "Devérouillé le souscripteur",
-  "claim.generateInvoice.title": "Générer la facture"
-
+  "claim.generateInvoice.title": "Générer la facture",
+  "payment.TotalAmt": "Total"
 }
