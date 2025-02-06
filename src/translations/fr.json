@@ -2873,6 +2873,7 @@
   "tools.report.CAMU Care Sheet": "Feuille de soins CAMU",
   "tools.report.Percentage of referrals in claims": "Pourcentage de renvois dans les demandes de remboursement",
   "tools.reportName.payment_receipt": "Reçu de paiement",
+  "tools.reportName.payment_receipt_improved": "Reçu de paiement Amélioré",
   "tools.reportName.certificate_declaration_insured": "Attestation de déclaration de l'assuré",
   "tools.reportName.registration_application": "Demande d'enregistrement",
   "tools.reportName.pre_enrollment_receipt": "Récépissé de pré-inscription",
