@@ -101,6 +101,7 @@
   "claim.claimStatus.16": "Approuvé",
   "claim.claimStatus.32": "Remaniement",
   "claim.claimStatus.64": "Payé",
+  "claim.claimStatus.128": "En contentieux",
   "claim.ClaimFilter.claimNo": "N° de prestation",
   "claim.ClaimFilter.insureeCHFID": "N° de l'assuré",
   "claim.visitDateFrom": "Date de visite",
