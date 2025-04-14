@@ -786,7 +786,7 @@
   "payment.payment.status.none": ".",
   "payment.payment.status.-3": "Rejeté",
   "payment.payment.status.-2": "Rejeté",
-  "payment.payment.status.-1": "Rejeté",
+  "payment.payment.status.-1": "En contentieux",
   "payment.payment.status.1": "Créé",
   "payment.payment.status.2": "En attente",
   "payment.payment.status.3": "Traitement",
