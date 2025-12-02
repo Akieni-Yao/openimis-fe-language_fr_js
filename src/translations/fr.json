@@ -3369,7 +3369,7 @@
   "payment.CancellationDetails": "Cancellation Details",
   "payment.payment.receiptNo1": "Payment Proof Reference No. 1",
   "payment.payment.period": "N° de reçu 1",
-  "payment.payment.newTransaction": "New Transaction",
+  "payment.payment.newTransaction": "Nouvelle transaction ",
   "payment.payment.receivedAmount{count}": "Received Amount {count}",
   "payment.Payment.paymentProofTitle": "Preuve de paiement ",
   "payment.Payment.cancelProofTitle": "Preuve d'annulation ",
