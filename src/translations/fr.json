@@ -3370,7 +3370,7 @@
   "payment.payment.receiptNo1": "Payment Proof Reference No. 1",
   "payment.payment.period": "N° de reçu 1",
   "payment.payment.newTransaction": "Nouvelle transaction ",
-  "payment.payment.receivedAmount{count}": "Received Amount {count}",
+  "payment.payment.receivedAmount{count}": "Montant reçu {count}",
   "payment.Payment.paymentProofTitle": "Preuve de paiement ",
   "payment.Payment.cancelProofTitle": "Preuve d'annulation ",
   "payment.ReasonToSanctionAmount": "Raison du montant de la sanction",
