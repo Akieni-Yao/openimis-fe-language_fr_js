@@ -3489,7 +3489,7 @@
   "tools.toolsMedicalServies.label": "Services médicaux",
   "tools.toolsMedicalServies.date": "Date",
   "tools.toolsMedicalServies.code": "Code médical",
-  "tools.toolsMedicalServies.name": "Nom médical",
+  "tools.toolsMedicalServies.name": "Nom du service",
   "tools.toolsMedicalServies.reason": "Raison",
   "tools.toolsMedicalServies.action": "Action",
   "tools.toolsPayment.label": "Registre des paiements de contrat",
