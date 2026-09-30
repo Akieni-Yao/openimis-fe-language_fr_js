@@ -60,6 +60,8 @@
   "admin.menu.medicalServices": "Actes des soins",
   "admin.menu.medicalItems": "Produits médicaux",
   "admin.menu.users": "Utilisateurs",
+  "admin.userRoleHistory.title": "Historique des utilisateurs",
+  "admin.userRoleHistory.subtitle": "Historique des utilisateurs",
   "admin.menu.usersProfiles": "Profils des utilisateurs",
   "admin.menu.enrollmentOfficers": "Agents d'inscription",
   "admin.menu.claimAdministrators": "Administrateurs des prestations d'indemnisation",
